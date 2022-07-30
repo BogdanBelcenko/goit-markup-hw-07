@@ -909,7 +909,7 @@ transition-duration: 250ms;
 .checkbox:checked + .form__checkbox-icon {
   border-color: rgba(0,0,0,0);
   background-color: var(--accent-color);
-  background-image: url(../images/icons/checked.svg);
+  background-image: url("../images/icons/checked.svg");
   background-size: contain;
   background-origin: border-box;
   background-repeat: no-repeat;
