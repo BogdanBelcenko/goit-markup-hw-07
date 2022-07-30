@@ -1,0 +1,15 @@
+@import url(utils/_variables.scss);
+@import url(utils/_reset.scss);
+@import url(utils/_visually-hidden.scss);
+@import url(components/_header.scss);
+@import url(components/_logo.scss);
+@import url(components/_hero.scss);
+@import url(components/_work.scss);
+@import url(components/_about.scss);
+@import url(components/_our_team.scss);
+@import url(components/_our_customers.scss);
+@import url(components/_footer.scss);
+@import url(components/_modal.scss);
+@import url(components/_filter.scss);
+@import url(components/_project.scss);
+@import url(components/_button.scss);/*# sourceMappingURL=main.css.map */
