@@ -1,7 +1,17 @@
-:root {
-    --primary-text-color:#212121;
-    --secondary-text-color: #757575;
-    --backgrount-main-color: #fff;
-    --accent-color: #2196F3;
-    --white-color:#fff;
-    }
+$primary-text-color: #757575;
+$second-text-color: #212121;
+$accent-color: #2196f3;
+$primary-bg-color: #ffffff;
+$second-bg-color: #2f303a;
+$additional-background-color: #f5f4fa;
+$svg-color: #afb1b8;
+
+
+
+$primary-font: Roboto, sans-serif;
+$secondary-font: Raleway, sans-serif;
+
+
+
+$transition-duration: 250ms;
+$timing-function: cubic-bezier(0.4, 0, 0.2, 1);
